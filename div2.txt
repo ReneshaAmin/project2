@@ -1,0 +1,445 @@
+<!DOCTYPE html>
+<html>
+<head>
+<body>
+<h3>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp <u>Home page</u></h3>
+		<center><table border="1" style="height: 70%;width: 70%;">
+			<tr>
+			<td colspan="6"><center><img src="p1.jpg" width="40%" height="40%"><center></td>
+		</tr>
+		<tr bgcolor="navyblue" >
+                 <th><u>Home Line</u></th>
+                <th><u> Breaks</u></th>
+                <th><u> tags </u></th>
+                 <th><u> Lists </u></th>
+                  <th><u> Tables </u></th>
+             <td><u> From </u></th>
+            </tr>
+
+      <tr width="100">
+           <td width="100"><img src="p4.jpg" height="500" width="100"></td>
+<td colspan="4" width="500"><h2>Demonstrating a few HTML features</h2 ><p><b>HTML is really a very simple language. It consists of ordinary
+text, with commands that are enclosed by "<" and ">" characters,
+or between an "&" and a ";".<br><br>
+You don't really need to know much HTML to create a page,
+because you can copy bits of HTML from other pages that do
+what you want, then change the text!<br><br>
+This page shows on the left as it appears in your browser, and the
+corresponding HTML code appears on the right. The HTML
+commands are linked to explanations of what they do.</b></p>
+</p>
+  <td width="100"> <u>Useful Links</u><br><br>
+<a href="#">Southeast
+University</a><br><br>
+        
+               <a href="#">Institute of
+Information
+Technology</a><br>
+           <a href="#">
+       UGC</a><br><br>
+          <a href="#">ICT ministry</a><br><br>
+        
+</tr>
+<tr>
+  <th colspan="6">Copyright © 2022, by 2019000000063</th>
+</tr>
+</table>
+</center>
+<br> <br> <br>
+
+		<h3>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp <u>Line Breaks page</u></h3>
+		<center><table border="1" style="height: 70%;width: 70%;">
+			<tr>
+			<td colspan="6"><center><img src="p1.jpg" width="40%" height="40%"><center></td>
+		</tr>
+		<tr bgcolor="navyblue" >
+                 <th><u>Home Line</u></th>
+                <th><u> Breaks</u></th>
+                <th><u> tags </u></th>
+                 <th><u> Lists </u></th>
+                  <th><u> Tables </u></th>
+             <td><u> From </u></th>
+            </tr>
+
+      <tr width="100">
+           <td width="100"><img src="p4.jpg" height="500" width="100"></td>
+<td colspan="4" width="500"><h2>Line Breaks and HR Tags</h2 ><p><b>HTML doesn't normally use line breaks for ordinary text. A
+white space of any size is treated as a single space. This is
+because the author of the page has no way of knowing the size
+of the reader's screen, or what size type they will have their
+browser set for.<br> <br>
+If you want to put a line break at a particular place, you can use
+the "<BR>" command, or, for a paragraph break, the "<P>"
+command, which will insert a blank line. The heading
+command ("<H4></H4>") puts a blank line above and below
+the heading text.</b>
+</p>
+  <td width="100"> <u>Useful Links</u><br><br>
+<a href="#">Southeast
+University</a><br><br>
+        
+               <a href="#">Institute of
+Information
+Technology</a><br>
+           <a href="#">
+       UGC</a><br><br>
+          <a href="#">ICT ministry</a><br><br>
+        
+</tr>
+<tr>
+  <th colspan="6">Copyright © 2022, by 2019000000063</th>
+</tr>
+</table>
+</center>
+
+//<br> <br> <br>
+<!DOCTYPE html>
+<html>
+<head>
+	<body>
+		<h3>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp <u>Tags page</u></h3>
+		<center><table border="1" style="height: 70%;width: 70%;">
+			<tr>
+			<td colspan="6"><center><img src="p1.jpg" width="40%" height="40%"><center></td>
+		</tr>
+		<tr bgcolor="navyblue" >
+                 <th><u>Home Line</u></th>
+                <th><u> Breaks</u></th>
+                <th><u> tags </u></th>
+                 <th><u> Lists </u></th>
+                  <th><u> Tables </u></th>
+             <td><u> From </u></th>
+            </tr>
+
+      <tr width="100">
+           <td width="100"><img src="p4.jpg" height="500" width="100"></td>
+<td colspan="4" width="500"><h2>Starting and Stopping Commands</h2 ><p><b>
+Most HTML commands come in pairs: for example, "<H4>"
+marks the beginning of a size 4 heading, and "</H4>" marks the
+end of it. The closing command is always the same as the
+opening command, except for the addition of the "/".<br> <br>
+Modifiers are sometimes included along with the basic
+command, inside the opening commands < >. The modifier does
+not need to be repeated in the closing command.</b></p>
+
+  <td width="100"> <u>Useful Links</u><br><br>
+<a href="#">Southeast
+University</a><br><br>
+        
+               <a href="#">Institute of
+Information
+Technology</a><br>
+           <a href="#">
+       UGC</a><br><br>
+          <a href="#">ICT ministry</a><br><br>
+        
+</tr>
+<tr>
+  <th colspan="6">Copyright © 2022, by 2019000000063</th>
+</tr>
+</table>
+</center>
+
+//<br> <br> <br>
+<!DOCTYPE html>
+<html>
+<head>
+	<body>
+		<h3>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp <u>Lists page</u></h3>
+		<center><table border="1" style="height: 70%;width: 70%;">
+			<tr>
+			<td colspan="6"><center><img src="p1.jpg" width="40%" height="40%"><center></td>
+		</tr>
+		<tr bgcolor="navyblue" >
+                 <th><u>Home Line</u></th>
+                <th><u> Breaks</u></th>
+                <th><u> tags </u></th>
+                 <th><u> Lists </u></th>
+                  <th><u> Tables </u></th>
+             <td><u> From </u></th>
+            </tr>
+
+      <tr width="100">
+           <td width="100"><img src="p4.jpg" height="500" width="100"></td>
+<td colspan="4" width="500"><h3>A nested List:</h3 ><p><b>
+<ol>
+<li>Chapter One
+       <ol type="a">
+            
+           <li> Section One
+
+         <ol type="i">
+
+
+          <li>Subsection One</li>
+         <li> Subsection Two </li>
+</ol>
+
+
+
+
+</li>
+             
+           <li>Section Two </li>
+            
+           <li> Section Three</li>
+           
+           <li>Section four
+
+ <ol type="i">
+
+
+          <li>Subsection One</li>
+         <li> Subsection Two </li>
+</ol>
+
+
+
+
+ </li>
+        </ol>
+
+
+
+
+
+
+</li>
+<li>Chapter Two
+
+ <ol type="a">
+
+
+          <li>Section One</li>
+         <li> Ssection Two </li>
+</ol>
+
+
+
+ </li>
+         <li> Chapter Three
+    <ol type="a">
+
+
+          <li>Section One
+      <ol type="i">
+
+
+          <li>Subsection One</li>
+         
+</ol>
+
+
+</li>
+         
+</ol>
+
+
+</li>
+   </ol>
+
+  
+
+</b>
+</p>
+  <td width="100"> <u>Useful Links</u><br><br>
+<a href="#">Southeast
+University</a><br><br>
+        
+               <a href="#">Institute of
+Information
+Technology</a><br>
+           <a href="#">
+       UGC</a><br><br>
+          <a href="#">ICT ministry</a><br><br>
+        
+</tr>
+<tr>
+  <th colspan="6">Copyright © 2022, by 2019000000063</th>
+</tr>
+</table>
+</center>
+
+
+
+
+        
+
+
+//<br> <br> <br>
+
+	
+		<h3>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp <u>Tables page</u></h3>
+		<center><table border="1" style="height: 70%;width: 70%;">
+			<tr>
+			<td colspan="6"><center><img src="p1.jpg" width="40%" height="40%"><center></td>
+		</tr>
+		<tr bgcolor="navyblue" >
+                 <th><u>Home Line</u></th>
+                <th><u> Breaks</u></th>
+                <th><u> tags </u></th>
+                 <th><u> Lists </u></th>
+                  <th><u> Tables </u></th>
+             <td><u> From </u></th>
+            </tr>
+
+      <tr width="100">
+           <td width="100"><img src="p4.jpg" height="500" width="100"></td>
+<td colspan="4" width="500">
+<center><table border=2 bordercolor="navyblue" width="400" height="200" >
+  <tr>
+<th>Column 1 </th>
+<th>Column 2 </th>
+<th>Column 3 </th>
+</tr>
+<tr>
+<td>Row 1 Cell 1 </td>
+<td>Row 1 Cell 2 </td>
+<td>Row 1 Cell 3 </td>
+</tr>
+<tr>
+   <td>Row 1 Cell 2</td>
+    <td>Row 2 Cell 2</td>
+ <td>Row 2 Cell 3</td>
+</tr>
+<tr>
+   <th colspan="3"> Row 3 Cell 2</th>
+</tr>
+</table>
+</center>
+
+
+  <td width="100"> <u>Useful Links</u><br><br>
+<a href="#">Southeast
+University</a><br><br>
+        
+               <a href="#">Institute of
+Information
+Technology</a><br>
+           <a href="#">
+       UGC</a><br><br>
+          <a href="#">ICT ministry</a><br><br>
+        
+</tr>
+<tr>
+  <th colspan="6">Copyright © 2022, by 2019000000063</th>
+</tr>
+</table>
+</center>
+
+//<br> <br> <br>
+
+		<h3>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp <u>Forms page</u></h3>
+		<center><table border="1" style="height: 70%;width: 70%;">
+			<tr>
+			<td colspan="6"><center><img src="p1.jpg" width="40%" height="40%"><center></td>
+		</tr>
+		<tr bgcolor="navyblue" >
+                 <th><u>Home Line</u></th>
+                <th><u> Breaks</u></th>
+                <th><u> tags </u></th>
+                 <th><u> Lists </u></th>
+                  <th><u> Tables </u></th>
+             <td><u> From </u></th>
+            </tr>
+
+      <tr width="100">
+           <td width="100"><img src="p4.jpg" height="400" width="100"></td>
+<td colspan="4" width="500">
+<center><table border="1" height="200" width="400"></center>
+<tr>
+   
+<td><b>Name</b></td>
+<td><input type="text" name="name"> </td>
+</tr>
+<tr>
+<td><b>Email</b></td>
+<td><input type="text" name="email"></td>
+
+</tr>
+<tr>
+<td><b>Password</b></td>
+<td><input type="text" name="password"></td>
+
+</tr>
+<tr>
+<td><b>Gender</b></td>
+<td><input type="radio" name="gender" value="male">Male
+<input type="radio" name="gender" value="female">Female</td>
+
+</tr>
+<tr>
+<td><b>Country</b></td>
+<td><select>
+<option value="bangladesh">Bangladesh</option>
+<option value="usa">Usa</option>
+<option value="canada">Canada</option>
+</select></td>
+
+</tr>
+<tr>
+<td><b>Biography</b></td>
+<td><input type="text" name="biography"></td>
+
+</tr>
+<tr>
+
+<th colspan="2"><input type="submit" name="Submit"></th>
+
+</tr>
+
+</table>
+  <td width="100"> <u>Useful Links</u><br><br>
+<a href="#">Southeast
+University</a><br><br>
+        
+               <a href="#">Institute of
+Information
+Technology</a><br>
+           <a href="#">
+       UGC</a><br><br>
+          <a href="#">ICT ministry</a><br><br>
+        
+</tr>
+<tr>
+  <th colspan="6">Copyright © 2022, by 2019000000063</th>
+</tr>
+</table>
+</center>
+<br> <br> <br>
+
+<h3>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp <u>Blank Page</u></h3>
+		<center><table border="1" style="height: 70%;width: 70%;">
+			<tr>
+			<td colspan="6"><center><img src="p1.jpg" width="40%" height="40%"><center></td>
+		</tr>
+		<tr bgcolor="navyblue" >
+                 <th><u>Home Line</u></th>
+                <th><u> Breaks</u></th>
+                <th><u> tags </u></th>
+                 <th><u> Lists </u></th>
+                  <th><u> Tables </u></th>
+             <td><u> From </u></th>
+            </tr>
+
+      <tr width="100">
+           <td width="100"><img src="p4.jpg" height="500" width="100"></td>
+<td colspan="4" width="500"><p><b>Data from form page will be shown here.</b>
+</p>
+  <td width="100"> <u>Useful Links</u><br><br>
+<a href="#">Southeast
+University</a><br><br>
+        
+               <a href="#">Institute of
+Information
+Technology</a><br>
+           <a href="#">
+       UGC</a><br><br>
+          <a href="#">ICT ministry</a><br><br>
+        
+</tr>
+<tr>
+  <th colspan="6">Copyright © 2022, by 2019000000063</th>
+</tr>
+</table>
+</center>
